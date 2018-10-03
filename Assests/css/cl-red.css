@@ -1,0 +1,15 @@
+
+
+:root 
+	{
+		--cl-base: #102044;
+		--cl-dark: #102044;
+		--cl-lightest: #F0F8FF;
+		--cl-lighter: #F0F8FF;
+		--cl-light: #F0F8FF;
+		--cl-darker: #621B18;
+		--cl-darkest: #3B0D0C;
+		--cl-white: #FFF;
+		--cl-black: #000;
+		--cl-body: #EEE;
+	}
